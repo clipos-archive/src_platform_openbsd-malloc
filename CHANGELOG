@@ -1,0 +1,8 @@
+# CLIP ChangeLog for sys-libs/openbsd-malloc
+
+*openbsd-malloc-20120626 (20 Jul 2012)
+
+  20 Jul 2012; Vincent Strubel <clipos@ssi.gouv.fr>
+  openbsd-malloc-20120626.ebuild:
+  Initial import. Extract of the malloc & Co. functionality 
+  from openbsd, based on the latest cvs.
